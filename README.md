@@ -388,7 +388,7 @@ cd ~/your/desired/path
 ### 🔹 2. Clone the Repository
 
 ```
-git clone https://github.com/rh3nium/Road-Incident-Hazard-Detection-and-SMS-Alert-Notification-System/tree/main
+git clone https://github.com/3riy/Road-Incident-Detection-and-SMS-Alert-System/tree/main
 ```
 
 ---
@@ -396,7 +396,7 @@ git clone https://github.com/rh3nium/Road-Incident-Hazard-Detection-and-SMS-Aler
 ### 🔹 3. Navigate to the Repository Folder
 
 ```
-cd Road-Incident-Hazard-Detection-and-SMS-Alert-Notification-System
+cd Road-Incident-Detection-and-SMS-Alert-System
 ```
 
 ---
