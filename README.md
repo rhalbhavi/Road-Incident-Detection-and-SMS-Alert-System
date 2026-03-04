@@ -16,7 +16,7 @@
 
 * <b>[⚙️ Technology Stack](#technology-stack)</b>
 
-* <b>[🔄 Workflow](#workflow)</b>
+* <b>[🔄 Flow](#flow)</b>
     * [🖧 Diagram](#diagram)
     * [📝 Steps](#steps)
 
@@ -146,7 +146,7 @@ The YOLO model is pretrained to detect a variety of objects, such as cars, buses
 
 ---
 
-## Workflow
+## Flow
 
 ### Diagram
 
