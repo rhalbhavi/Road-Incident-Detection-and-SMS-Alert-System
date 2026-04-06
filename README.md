@@ -6,7 +6,7 @@
 
 ---
 
-# TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 * <b>[📝 Overview](#overview)</b>
     * [🧩 Core Features](#core-features)
