@@ -43,6 +43,7 @@
 ## Overview
 
 This system continuously monitors video feeds, detects hazards, generates natural-language incident reports using T5, and alerts responders through SMS.
+My team of 3 developed this during a 24-hr hackathon, and we were shortlisted to round 2. However, we did not place in the final rankings.
 
 ### Core Features
 
@@ -61,7 +62,8 @@ The YOLO model is pretrained to detect a variety of objects, such as cars, buses
 * Fire 🔥 (HSV color detection logic)
 * Person Hit by Vehicle 💥 (approximate proximity logic)
 
-<img width="700" height=auto alt="image" src="https://github.com/user-attachments/assets/cd812ce8-44fa-4d4f-8902-9012928a88b2">
+<br>
+<img width="650" height=auto alt="image" src="https://github.com/user-attachments/assets/cd812ce8-44fa-4d4f-8902-9012928a88b2">
 
 ---
 
@@ -435,13 +437,6 @@ Then open the url:
 http://127.0.0.1:5000
 ```
 
-
----
-
-## Development Challenges
-
-* My team was initially struggling to get a full working test of the SMS notification functionality due to Twilio API having a very limited amount of credits for each free-tier account, but for the live demo in front of the hackathon judges we were able to borrow a club member's phone to create an account using their number and test the SMS.
-* It was a good experience overall.
 
 ---
 
