@@ -43,6 +43,7 @@
 ## Overview
 
 This system continuously monitors video feeds, detects hazards, generates natural-language incident reports using T5, and alerts responders through SMS.
+
 My team of 3 developed this during a 24-hr hackathon, and we were shortlisted to round 2. However, we did not place in the final rankings.
 
 ### Core Features
