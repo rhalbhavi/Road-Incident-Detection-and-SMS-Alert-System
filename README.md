@@ -1,7 +1,10 @@
-# 🚨 Real-Time Road Incident/Hazard Detection and SMS Alert Notification System
-
-### A real-time road incident detection system using Computer Vision (MobileNet/YOLO), AI-based incident reporting (T5), and instant SMS alerts (Twilio) via a Flask dashboard.
-<img width="850" height="auto" alt="Screenshot from 2025-11-16 13-43-00" src="https://github.com/user-attachments/assets/79ffb09b-3f4b-4fa7-9426-e50f9181bf51">
+<div align="center">
+   
+   # 🚨 Real-Time Road Incident/Hazard Detection and SMS Alert Notification System
+   ### A real-time road incident detection system using Computer Vision (MobileNet/YOLO), AI-based incident reporting (T5), and instant SMS alerts (Twilio) via a Flask dashboard.
+   <img width="1000" height="auto" alt="Screenshot from 2025-11-16 13-43-00" src="https://github.com/user-attachments/assets/79ffb09b-3f4b-4fa7-9426-e50f9181bf51">
+   
+</div>
 <p></p>
 
 ---
@@ -64,7 +67,9 @@ The YOLO model is pretrained to detect a variety of objects, such as cars, buses
 * Person Hit by Vehicle 💥 (approximate proximity logic)
 
 <br>
+<div align="center">
 <img width="650" height=auto alt="image" src="https://github.com/user-attachments/assets/cd812ce8-44fa-4d4f-8902-9012928a88b2">
+</div>
 
 ---
 
@@ -72,27 +77,37 @@ The YOLO model is pretrained to detect a variety of objects, such as cars, buses
 
 <b>For our hackathon demo, we used toy cars to simulate a real car crash. Bounding boxes can be seen around the cars along with confidence scores.</b>
 - A <b>confidence score</b> in object detection is a numerical value (typically between 0 and 1) that expresses the machine learning model's certainty that a predicted object is present and that its classification is correct
-<img width="1389" height="617" alt="Screenshot from 2025-11-16 13-43-00" src="https://github.com/user-attachments/assets/79ffb09b-3f4b-4fa7-9426-e50f9181bf51">
+<div align="center">
+<img width="850" height="auto" alt="Screenshot from 2025-11-16 13-43-00" src="https://github.com/user-attachments/assets/79ffb09b-3f4b-4fa7-9426-e50f9181bf51">
+</div>
 <p></p>
 
 <b>Multiple incidents occuring at the same time or overlapping will also be displayed, like this:</b>
 
+<div align="center">
 <img width="449" height="49" alt="image" src="https://github.com/user-attachments/assets/21117233-7ae3-4d88-b26f-6c37d2e672d7" />
+</div>
 <p></p>
 
 <b>After an incident is detected (in this case, fire), an SMS alert is triggered via Twilio API.</b>
 
+<div align="center">
 <img width=auto height="500" alt="Screenshot from 2025-10-26 06-03-47" src="https://github.com/user-attachments/assets/10649a17-e1d8-44d5-a2b1-dbffad3adaa0" />
+</div>
 <p></p>
 
 <b>The incident data is logged to the MongoDB Database.</b>
 
+<div align="center">
 <img width="900" height="auto" alt="Screenshot from 2025-10-24 21-54-04" src="https://github.com/user-attachments/assets/979a66ad-ca83-45a4-b6fc-3a95b804fc92" />
+</div>
 <p></p>
 
 <hr>
 <p><i>Some other pictures from the development process:</i></p>
+<div align="center">
 <img width="auto" height="320" alt="Screenshot from 2025-10-24 14-55-44" src="https://github.com/user-attachments/assets/24922e47-4036-4751-85c2-5843902d50c3" />
+</div>
 
 ---
 
