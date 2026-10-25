@@ -1,6 +1,6 @@
 <div align="center">
    
-   # 🚨 Real-Time Road Incident/Hazard Detection and Alert System
+   # 🚨 Real-Time Road Incident Detection and Alert System
    ### A real-time road incident detection system using Computer Vision (MobileNet/YOLO), AI-based incident reporting (T5), and instant SMS alerts (Twilio) via a Flask dashboard.
    <img width="1000" height="auto" alt="Screenshot from 2025-11-16 13-43-00" src="https://github.com/user-attachments/assets/79ffb09b-3f4b-4fa7-9426-e50f9181bf51">
    
